@@ -1,0 +1,13 @@
+text,label
+"Your account has been suspended. Click here to verify.",phishing
+"Congratulations! You won a free iPhone. Claim now.",phishing
+"Urgent: Update your banking information immediately.",phishing
+"Reset your password using this link.",phishing
+"Your invoice is attached.",safe
+"Meeting scheduled for tomorrow.",safe
+"Project report attached.",safe
+"Let's have lunch tomorrow.",safe
+"Verify your PayPal account now.",phishing
+"Your Amazon order has been shipped.",safe
+"Click here to claim your reward.",phishing
+"Team meeting at 3 PM.",safe
